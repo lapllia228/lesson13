@@ -1,0 +1,23 @@
+.vis:visited{
+ content: '';
+ color: greenyellow;    
+}
+.lin:link{
+    content: '';
+    color: blue;
+}
+.body{
+    background-color: rgb(110, 114, 110);
+}
+.hov:hover{
+    content: '';
+    color: goldenrod;
+}
+.act:active{
+    content: '';
+    color: goldenrod;
+}
+.foc:focus{
+    content: '';
+    color: goldenrod;
+}
